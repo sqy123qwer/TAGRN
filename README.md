@@ -1,4 +1,4 @@
-# TAGAN
+# TAGRN
 This folder concludes the code and data of our TAGAN model: [Time-Graph Adjustive Graph Convolutional Recurrent Network for Traffic Prediction](Full code will be uploaded soon)
 
 
